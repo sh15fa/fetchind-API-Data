@@ -1,0 +1,21 @@
+.displayAPI{
+    display: grid;
+    grid-template-columns: repeat(5,15vw);
+    grid-gap: 5vh 5vw;
+    text-align: center;
+}
+
+.api{
+    border: 2px solid rgb(155, 154, 154);
+    border-radius: 1vh;
+    text-align: center;
+    height: 60vh;
+    padding: 1vw;
+}
+
+ul li{
+    list-style: none;
+}
+h1{
+    text-align: center;
+}
